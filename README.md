@@ -1,4 +1,4 @@
-# Hi 👋! I'm Regis Mugisha, a Web Developer
+# Hi 👋! I'm Regis Mugisha, a Software Developer
 
 ## About Me
 - 🌍 Based in Rwanda
@@ -12,3 +12,6 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/regis-mugisha)
+
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=regis-mugisha&color=blueviolet)
