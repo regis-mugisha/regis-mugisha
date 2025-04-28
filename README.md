@@ -12,6 +12,3 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regis-mugisha/)
-
-## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=regis-mugisha&color=blueviolet)
