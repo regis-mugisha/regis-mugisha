@@ -11,7 +11,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=regis-mugisha&theme=dracula)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/regis-mugisha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/regis-mugisha)
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=regis-mugisha&color=blueviolet)
